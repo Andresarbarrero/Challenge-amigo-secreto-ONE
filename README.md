@@ -26,7 +26,7 @@ En desarrollo activo. Puedes revisar el código y contribuir según las directri
 -------------------------------------------
 
 ## Acceso al Proyecto  
-El proyecto está disponible en GitHub [https://andresarbarrero.github.io/Challenge-amigo-secreto-ONE/](https://github.com/Andresarbarrero/Challenge-amigo-secreto-ONE).
+El proyecto está disponible en GitHub [Challenge Amigo Secreto](https://github.com/Andresarbarrero/Challenge-amigo-secreto-ONE).
 
 ## Tecnologías Utilizadas  
 - JavaScript  
